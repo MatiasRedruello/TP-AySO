@@ -1,0 +1,389 @@
+pws
+pwd
+tree
+ls -l
+cd repogit/
+ls -l
+awd
+ls -l
+ll
+ls -l
+ls -l awd
+pwd
+ls -l
+ls -l /home/vagrant/.ssh/
+pwd
+ls -l ../.ssh/
+ssh-keygen --help
+ssh-keygen -t ed25519
+ls -l ../.ssh/
+ssh-keygen --help
+ls -l ../.ssh/
+cat ../.ssh/id_ed25519.pub 
+vagrant halt
+halt
+pwd
+ssh
+ssh help
+ssh -W
+pwd
+ls 
+ls -l
+ls -ls
+cd repogit/
+ls -l
+ls-l
+ls -l
+ls -l ../ssh/
+pwd
+ls -l /home/vagrant/.ssh/
+ls -l ../.ssh/
+
+pwd
+ls -l
+ls -la
+../.ssh/
+cat ../.ssh/id_ed25519.pub
+ls -l
+cd repogit/
+ls -l
+../.ssh/
+ls -l ../.shh/
+ls -l ../.ssh/
+ssh-keygen --help
+ls -l ../.ssh/
+cat ../.ssh/id_ed25519.pub
+git clone git@github.com:MatiasRedruello/TP-AySO.git
+ll
+cd TP-AySO/
+ls -l
+ls -ls
+ls -la
+exit
+pwd
+exit
+ls -l
+cd cd repogit/
+ls -l
+cd repogit/
+cd TP-AySO/
+ls -l
+pwd
+ls -l ../.ssh/
+exit
+pwd
+ls -l ../.ssh/
+cd repogit/
+ls -l
+ls -l /home/vagrant/.ssh/
+ls -l ../.ssh/
+pwd
+ls -la
+cd TP-AySO/
+pwd
+ls -l
+ls -la
+echo ""
+echo "hola $(whoami)"
+echo "hola"
+echo "hola $(whoami)" > unarchivo
+git status
+git add .
+git status
+git commit -m "add: Primer commit"
+git status
+git push
+git log
+grep AU
+cd cd repogit/
+cd repogit/
+cd TP-AySO/
+ls -la
+git log
+git log | grep commit
+git log | grep th
+git log | grep mat
+git log | grep commit | grep -v commit
+git log | grep commit | grep -v m
+git log | grep commit | wc
+git log | grep commim
+git log | grep commit
+git log | grep commit | wc
+git log | grep commit | wc -l
+echo "hola" | wc
+echo "hola " | wc
+echo "hola " | wc -l
+echo "hola " | wc -w
+echo -n "hola " | wc
+#  "hola " | wc
+history
+history | grep 
+history | grep g
+history | grep g |wc
+history | grep g |wc -l
+histoy | tail -n2
+history | tail -n2
+history | tail -n50
+# |
+history | grep g
+man man 
+man ls
+man pwd
+man cat
+man ls
+ll
+ls -l -a
+ls -la
+man touch
+ls
+ls -l
+ls -la
+ls -h
+ls -lah
+ls -h
+ls -lh
+ls -l
+ls -la
+ls -lah
+ls -lh
+ascii
+man ascii
+man -k
+man -k net
+man -k net | ls
+man -k net | grep ls
+man -k net | grep print
+man -k net | grep show
+man -k net | grep delete
+man -k net | grep del
+man -k net | grep ip
+man -k net | grep conf
+man -K net | grep conf
+man -K net | grep info
+apropo
+aproposeditor
+apropos editor
+apropos cd
+apropos ls
+man apropos
+apropos man
+apropos ls
+exit
+touch pruebacreandoarchivo
+ls
+ls -l
+date
+whoiam
+whoami
+echo "hola" > pruebacreandoarchivo
+ls-l
+ls -l
+cat pruebacreandoarchivo 
+echo "puto el que lee" > pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+echo "chao" >pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+acho "bye" >> pruebacreandoarchivo 
+echo "bye" >> pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+echo "good bye" > pruebacreandoarchivo 
+cat pro
+cat pruebacreandoarchivo 
+echo "chao" >> pruebacreandoarchivo 
+echo "chiao" >> pruebacreandoarchivo 
+echo "me fui" >> pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+cat pruebacreandoarchivo | grep -l
+cat pruebacreandoarchivo | grep
+cat pruebacreandoarchivo | grep ch
+cat pruebacreandoarchivo | ls -l | grep ch
+cat pruebacreandoarchivo | ls -l 
+cat pruebacreandoarchivo | ls -la 
+cat pruebacreandoarchivo | ls -la | grep
+cat pruebacreandoarchivo | ls -la | grep c
+cat pruebacreandoarchivo | grep a
+cat pruebacreandoarchivo | grep i
+bc <<< 2+3
+bc <<< 2*3
+bc <<< 2-3
+bc <<< 2**3
+bc <<< 2%3
+cat pruebacreandoarchivo | wc
+cat pruebacreandoarchivo | wc -l
+cat pruebacreandoarchivo | grep i | wc 
+cat pruebacreandoarchivo | grep i | wc -l
+cat pruebacreandoarchivo | grep a | wc -l
+cat pruebacreandoarchivo
+cat pruebacreandoarchivo | grep o | wc -l
+cat pruebacreandoarchivo | grep o | wc 
+cat pruebacreandoarchivo | grep o | wc -a
+cat pruebacreandoarchivo | grep o | wc -h
+cat pruebacreandoarchivo | grep o | wc 
+wc <<< 5+2 | echo pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+
+wc <<< 5+2 | echo > pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+echo $"wc<<< 5+2" > pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+echo $"wc <<< 5+2" > pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+echo $"bc <<< 5+2" > pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+bc <<< 5+2 > pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+echo "hola" >> pruebacreandoarchivo 
+echo "chao" >> pruebacreandoarchivo 
+echo "me fui" >> pruebacreandoarchivo 
+"me fui" >> pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+cat pruebacreandoarchivo | wc
+cat pruebacreandoarchivo | wc << C
+C
+
+cat pruebacreandoarchivo << chao
+chao
+
+wc 6*6 >> pruebacreandoarchivo 
+bc 6*6 >> pruebacreandoarchivo 
+bc 6+6 >> pruebacreandoarchivo 
+history
+cat pruebacreandoarchivo 
+bc <<< 6*6 >> pruebacreandoarchivo 
+bc <<< 6%6 >> pruebacreandoarchivo 
+bc <<< 6+6 >> pruebacreandoarchivo 
+bc <<< 6-6 >> pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+echo "esta archivo tiene numeros y texto" >> pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+cat << 5gernovivo >> pruebacreandoarchivo 
+ungernovivo
+dosgernovivo
+tresgernovivo
+cuatrogernovivo
+5cogernovivo
+5gernovivo
+
+cat pruebacreandoarchivo 
+wc <<< 7+6 >> pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+bc <<< 7+6 >> pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+bc <<< 7+6 <<< +1 >> pruebacreandoarchivo 
+bc <<< 7+6 <<< 8+1 >> pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+wc -l <<< history >> pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+wc <<< history >> pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+wc << history >> pruebacreandoarchivo 
+1
+2
+history
+
+cat pruebacreandoarchivo }
+bc <<< 3+3 >> pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+echo "" > pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+history > pruebacreandoarchivo 
+cat pruebacreandoarchivo 
+cat pruebacreandoarchivo | grep cat
+pwd
+ls -l
+cd repogit/
+pwdl
+pwd
+ls -l
+cd TP-AySO/
+pwd
+ls -l
+ls -la
+cat /etc/os-release 
+man grep
+grep home_url/etc/os-release
+cd repogit/
+cd TP-AySO/
+cat /etc/os-release 
+cat HOME_URL/etc/os-release 
+grep HOME_URL/etc/os-release 
+cd repogit/
+cd TP-AySO/
+cat /etc/os-release 
+grep -i HOME_URL/etc/os-release 
+cd repogit/
+cd TP-AySO/
+cat /etc/os-release 
+grep HOME_URL/etc/os-release -i
+cd repogit/TP-AySO/
+cat /etc/os-release 
+grep -i home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)">datos_usuario.txt
+cat datos_usuario.txt 
+git add.
+git add
+git .add
+git --help
+ls -l
+cat unarchivo 
+cat datos_usuario.txt 
+git status
+git add
+git add.
+git status
+git add .
+git status
+git commit -m "add:agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt 
+cat datos_usuario.txt 
+git status
+git add .
+git commit -m "feat: Añadiendo información de CPU"
+git status
+git push
+git status
+touch > lista_ordenada
+touch  "lista_ordenada"
+ls -l
+man grep
+#grep -v "nologin" | head -n 10 
+man sort
+#grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7 >> lista_ordenada 
+cat lista_ordenada 
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7 >> lista_ordenada 
+cat lista_ordenada 
+git status
+git add .
+git status
+git commit -m "ADD: Listado de usuarios ordenada"
+git status
+touch  "comando_dump_net"
+ls -l
+echo "tcpdump -i eth0" > comando_dump_net
+cat comando_dump_net 
+git status
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+git push
+git status
+ls -l
+cat << corte >> README.md  
+Alumno: Redruello Matias
+Division: 314
+Turno: jueves noche
+corte
+
+man cat
+cat README.md 
+git status
+git add .
+git commit -m "docs: agregar información del alumno al README"
+git push
+git status
+hitory -a
+history -a
+history
+pwd
+history -a
